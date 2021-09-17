@@ -32,3 +32,11 @@ body{
     width: 200px;
     float: left;
 }
+
+h3 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+  }
