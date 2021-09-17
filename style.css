@@ -1,0 +1,34 @@
+body{
+    background-color: pink;
+    font-family: Calibri, Helvetica, Verdana, sans-serif;
+}
+
+#container {
+    background-color: white;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background: url(https://64.media.tumblr.com/dab773e02bf892c40a3c37528d070a5c/tumblr_pa8r7awb0H1uvsi7jo1_1280.jpg)
+    no-repeat center center;
+        background-size: cover;
+        height: 200px;
+
+        line-height: 200px;
+        height: 200px;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        text-shadow: 3px 3px 5px #000000
+}
+
+#content {
+    padding: 20px;
+}
+
+#profile picture {
+    width: 200px;
+    float: left;
+}
