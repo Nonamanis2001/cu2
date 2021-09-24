@@ -26,15 +26,23 @@ body {
 
 #content {
     padding: 20px;
-    display: flex;
+    width: 100%;
+    height: auto;
 }
 
-#profile picture {
-    flex: 1;
+#profilepicture {
+    width: 200px;
+    float: left;
+}
+
+.profilepic
+{
+    margin-right: 30px;
 }
 
 #about {
-    flex: 1;
+    width: 700px;
+    float: right;
 }
 
 #footer {
